@@ -1,0 +1,1 @@
+Cloud RACER is the cloud-version of RACER.
